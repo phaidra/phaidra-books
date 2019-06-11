@@ -1,0 +1,27 @@
+{
+  "name": "phaidra-xml2json",
+  "version": "1.0.0",
+  "description": "Creates manifest.json files for universalviewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaidra/phaidra-books.git"
+  },
+  "keywords": [
+    "manifest",
+    "universalviewer"
+  ],
+  "author": "Jürgen Platzer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phaidra/phaidra-books/issues"
+  },
+  "homepage": "https://github.com/phaidra/phaidra-books#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
