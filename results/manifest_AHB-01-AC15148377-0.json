@@ -1,0 +1,1809 @@
+{
+  "label": "Manifest for img",
+  "@type": "sc:Manifest",
+  "@id": "http://localhost:9090/manifests/manifest_AHB-01-AC15148377-0.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "sequences": [
+    {
+      "label": "Current page order",
+      "@type": "sc:Sequence",
+      "@id": "http://localhost:9090/fcgi-bin/sequence/normal",
+      "canvases": [
+        {
+          "height": "2825",
+          "label": "Buchdeckel vorne.(Seite 1)",
+          "width": "2075",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-1",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-1",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-001-00.tif"
+                },
+                "height": "2825",
+                "width": "2075",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-001-00.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-001-00.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-001-00.tif",
+              "height": "2825",
+              "width": "2075"
+            }
+          }
+        },
+        {
+          "height": "2807",
+          "label": "Buchdeckel vorne.(Seite 2)",
+          "width": "2084",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-2",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-2",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-002-05.tif"
+                },
+                "height": "2807",
+                "width": "2084",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-002-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-002-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-002-05.tif",
+              "height": "2807",
+              "width": "2084"
+            }
+          }
+        },
+        {
+          "height": "2723",
+          "label": "Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern. Mitgeteilt durch K.J. Schröer.(Seite 3)",
+          "width": "2037",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-3",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-3",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-003-01.tif"
+                },
+                "height": "2723",
+                "width": "2037",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-003-01.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-003-01.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-003-01.tif",
+              "height": "2723",
+              "width": "2037"
+            }
+          }
+        },
+        {
+          "height": "2675",
+          "label": "Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern. Mitgeteilt durch K.J. Schröer.(Seite 4)",
+          "width": "1992",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-4",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-4",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-004-05.tif"
+                },
+                "height": "2675",
+                "width": "1992",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-004-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-004-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-004-05.tif",
+              "height": "2675",
+              "width": "1992"
+            }
+          }
+        },
+        {
+          "height": "2765",
+          "label": "Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern.(Seite 5)",
+          "width": "2002",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-5",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-5",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-005-04.tif"
+                },
+                "height": "2765",
+                "width": "2002",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-005-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-005-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-005-04.tif",
+              "height": "2765",
+              "width": "2002"
+            }
+          }
+        },
+        {
+          "height": "2641",
+          "label": "Mythologie und Aberglaube.(Seite 6)",
+          "width": "1942",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-6",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-6",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-006-04.tif"
+                },
+                "height": "2641",
+                "width": "1942",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-006-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-006-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-006-04.tif",
+              "height": "2641",
+              "width": "1942"
+            }
+          }
+        },
+        {
+          "height": "2661",
+          "label": "Mythologie und Aberglaube.(Seite 7)",
+          "width": "1918",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-7",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-7",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-007-05.tif"
+                },
+                "height": "2661",
+                "width": "1918",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-007-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-007-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-007-05.tif",
+              "height": "2661",
+              "width": "1918"
+            }
+          }
+        },
+        {
+          "height": "2652",
+          "label": "Mythologie und Aberglaube.(Seite 8)",
+          "width": "1957",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-8",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-8",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-008-05.tif"
+                },
+                "height": "2652",
+                "width": "1957",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-008-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-008-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-008-05.tif",
+              "height": "2652",
+              "width": "1957"
+            }
+          }
+        },
+        {
+          "height": "2642",
+          "label": "Mythen.(Seite 9)",
+          "width": "1938",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-9",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-9",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-009-04.tif"
+                },
+                "height": "2642",
+                "width": "1938",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-009-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-009-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-009-04.tif",
+              "height": "2642",
+              "width": "1938"
+            }
+          }
+        },
+        {
+          "height": "2621",
+          "label": "Mythen.(Seite 10)",
+          "width": "1881",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-10",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-10",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-010-05.tif"
+                },
+                "height": "2621",
+                "width": "1881",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-010-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-010-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-010-05.tif",
+              "height": "2621",
+              "width": "1881"
+            }
+          }
+        },
+        {
+          "height": "2688",
+          "label": "Mythen.(Seite 11)",
+          "width": "1926",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-11",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-11",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-011-05.tif"
+                },
+                "height": "2688",
+                "width": "1926",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-011-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-011-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-011-05.tif",
+              "height": "2688",
+              "width": "1926"
+            }
+          }
+        },
+        {
+          "height": "2690",
+          "label": "Mythen.(Seite 12)",
+          "width": "1961",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-12",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-12",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-012-05.tif"
+                },
+                "height": "2690",
+                "width": "1961",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-012-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-012-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-012-05.tif",
+              "height": "2690",
+              "width": "1961"
+            }
+          }
+        },
+        {
+          "height": "2657",
+          "label": "Mythen.(Seite 13)",
+          "width": "1941",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-13",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-13",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-013-05.tif"
+                },
+                "height": "2657",
+                "width": "1941",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-013-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-013-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-013-05.tif",
+              "height": "2657",
+              "width": "1941"
+            }
+          }
+        },
+        {
+          "height": "2690",
+          "label": "Mythen.(Seite 14)",
+          "width": "1997",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-14",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-14",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-014-05.tif"
+                },
+                "height": "2690",
+                "width": "1997",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-014-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-014-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-014-05.tif",
+              "height": "2690",
+              "width": "1997"
+            }
+          }
+        },
+        {
+          "height": "2707",
+          "label": "Mythen.(Seite 15)",
+          "width": "1988",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-15",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-15",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-015-05.tif"
+                },
+                "height": "2707",
+                "width": "1988",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-015-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-015-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-015-05.tif",
+              "height": "2707",
+              "width": "1988"
+            }
+          }
+        },
+        {
+          "height": "2662",
+          "label": "Mythen.(Seite 16)",
+          "width": "1946",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-16",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-16",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-016-05.tif"
+                },
+                "height": "2662",
+                "width": "1946",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-016-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-016-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-016-05.tif",
+              "height": "2662",
+              "width": "1946"
+            }
+          }
+        },
+        {
+          "height": "2673",
+          "label": "Mythen.(Seite 17)",
+          "width": "1992",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-17",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-17",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-017-05.tif"
+                },
+                "height": "2673",
+                "width": "1992",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-017-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-017-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-017-05.tif",
+              "height": "2673",
+              "width": "1992"
+            }
+          }
+        },
+        {
+          "height": "2622",
+          "label": "Mythen.(Seite 18)",
+          "width": "1943",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-18",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-18",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-018-05.tif"
+                },
+                "height": "2622",
+                "width": "1943",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-018-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-018-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-018-05.tif",
+              "height": "2622",
+              "width": "1943"
+            }
+          }
+        },
+        {
+          "height": "2699",
+          "label": "Mythen.(Seite 19)",
+          "width": "1961",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-19",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-19",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-019-05.tif"
+                },
+                "height": "2699",
+                "width": "1961",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-019-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-019-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-019-05.tif",
+              "height": "2699",
+              "width": "1961"
+            }
+          }
+        },
+        {
+          "height": "2671",
+          "label": "Mythen.(Seite 20)",
+          "width": "2011",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-20",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-20",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-020-05.tif"
+                },
+                "height": "2671",
+                "width": "2011",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-020-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-020-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-020-05.tif",
+              "height": "2671",
+              "width": "2011"
+            }
+          }
+        },
+        {
+          "height": "2680",
+          "label": "Mythen.(Seite 21)",
+          "width": "1996",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-21",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-21",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-021-05.tif"
+                },
+                "height": "2680",
+                "width": "1996",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-021-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-021-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-021-05.tif",
+              "height": "2680",
+              "width": "1996"
+            }
+          }
+        },
+        {
+          "height": "2677",
+          "label": "Mythen.(Seite 22)",
+          "width": "2017",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-22",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-22",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-022-05.tif"
+                },
+                "height": "2677",
+                "width": "2017",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-022-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-022-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-022-05.tif",
+              "height": "2677",
+              "width": "2017"
+            }
+          }
+        },
+        {
+          "height": "2684",
+          "label": "Mythen.(Seite 23)",
+          "width": "1946",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-23",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-23",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-023-05.tif"
+                },
+                "height": "2684",
+                "width": "1946",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-023-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-023-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-023-05.tif",
+              "height": "2684",
+              "width": "1946"
+            }
+          }
+        },
+        {
+          "height": "2602",
+          "label": "Mythen.(Seite 24)",
+          "width": "1993",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-24",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-24",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-024-05.tif"
+                },
+                "height": "2602",
+                "width": "1993",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-024-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-024-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-024-05.tif",
+              "height": "2602",
+              "width": "1993"
+            }
+          }
+        },
+        {
+          "height": "2688",
+          "label": "Mythen.(Seite 25)",
+          "width": "1949",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-25",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-25",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-025-05.tif"
+                },
+                "height": "2688",
+                "width": "1949",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-025-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-025-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-025-05.tif",
+              "height": "2688",
+              "width": "1949"
+            }
+          }
+        },
+        {
+          "height": "2620",
+          "label": "Mythen.(Seite 26)",
+          "width": "1962",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-26",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-26",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-026-05.tif"
+                },
+                "height": "2620",
+                "width": "1962",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-026-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-026-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-026-05.tif",
+              "height": "2620",
+              "width": "1962"
+            }
+          }
+        },
+        {
+          "height": "2673",
+          "label": "Mythen.(Seite 27)",
+          "width": "1941",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-27",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-27",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-027-05.tif"
+                },
+                "height": "2673",
+                "width": "1941",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-027-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-027-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-027-05.tif",
+              "height": "2673",
+              "width": "1941"
+            }
+          }
+        },
+        {
+          "height": "2572",
+          "label": "Mythen.(Seite 28)",
+          "width": "1969",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-28",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-28",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-028-05.tif"
+                },
+                "height": "2572",
+                "width": "1969",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-028-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-028-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-028-05.tif",
+              "height": "2572",
+              "width": "1969"
+            }
+          }
+        },
+        {
+          "height": "2634",
+          "label": "Mythen.(Seite 29)",
+          "width": "1973",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-29",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-29",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-029-05.tif"
+                },
+                "height": "2634",
+                "width": "1973",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-029-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-029-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-029-05.tif",
+              "height": "2634",
+              "width": "1973"
+            }
+          }
+        },
+        {
+          "height": "2626",
+          "label": "Mythen.(Seite 30)",
+          "width": "1854",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-30",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-30",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-030-05.tif"
+                },
+                "height": "2626",
+                "width": "1854",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-030-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-030-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-030-05.tif",
+              "height": "2626",
+              "width": "1854"
+            }
+          }
+        },
+        {
+          "height": "2648",
+          "label": "Mythen.(Seite 31)",
+          "width": "1946",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-31",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-31",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-031-05.tif"
+                },
+                "height": "2648",
+                "width": "1946",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-031-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-031-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-031-05.tif",
+              "height": "2648",
+              "width": "1946"
+            }
+          }
+        },
+        {
+          "height": "2603",
+          "label": "Mythen.(Seite 32)",
+          "width": "1871",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-32",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-32",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-032-05.tif"
+                },
+                "height": "2603",
+                "width": "1871",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-032-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-032-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-032-05.tif",
+              "height": "2603",
+              "width": "1871"
+            }
+          }
+        },
+        {
+          "height": "2667",
+          "label": "Andere Namen, die auf Mythisches hindeuten, Sprüche etc.(Seite 33)",
+          "width": "1934",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-33",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-33",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-033-04.tif"
+                },
+                "height": "2667",
+                "width": "1934",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-033-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-033-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-033-04.tif",
+              "height": "2667",
+              "width": "1934"
+            }
+          }
+        },
+        {
+          "height": "2569",
+          "label": "Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen.(Seite 34)",
+          "width": "1936",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-34",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-34",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-034-04.tif"
+                },
+                "height": "2569",
+                "width": "1936",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-034-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-034-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-034-04.tif",
+              "height": "2569",
+              "width": "1936"
+            }
+          }
+        },
+        {
+          "height": "2665",
+          "label": "Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen.(Seite 35)",
+          "width": "1953",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-35",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-35",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-035-05.tif"
+                },
+                "height": "2665",
+                "width": "1953",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-035-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-035-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-035-05.tif",
+              "height": "2665",
+              "width": "1953"
+            }
+          }
+        },
+        {
+          "height": "2591",
+          "label": "Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen.(Seite 36)",
+          "width": "1903",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-36",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-36",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-036-05.tif"
+                },
+                "height": "2591",
+                "width": "1903",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-036-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-036-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-036-05.tif",
+              "height": "2591",
+              "width": "1903"
+            }
+          }
+        },
+        {
+          "height": "2631",
+          "label": "Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen.(Seite 37)",
+          "width": "1908",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-37",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-37",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-037-05.tif"
+                },
+                "height": "2631",
+                "width": "1908",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-037-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-037-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-037-05.tif",
+              "height": "2631",
+              "width": "1908"
+            }
+          }
+        },
+        {
+          "height": "2600",
+          "label": "Verwaiste Mythen.(Seite 38)",
+          "width": "1902",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-38",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-38",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-038-04.tif"
+                },
+                "height": "2600",
+                "width": "1902",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-038-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-038-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-038-04.tif",
+              "height": "2600",
+              "width": "1902"
+            }
+          }
+        },
+        {
+          "height": "2717",
+          "label": "Sitten und Gebräuche.(Seite 39)",
+          "width": "1931",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-39",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-39",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-039-04.tif"
+                },
+                "height": "2717",
+                "width": "1931",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-039-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-039-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-039-04.tif",
+              "height": "2717",
+              "width": "1931"
+            }
+          }
+        },
+        {
+          "height": "2577",
+          "label": "Gebäcke.(Seite 40)",
+          "width": "1894",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-40",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-40",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-040-04.tif"
+                },
+                "height": "2577",
+                "width": "1894",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-040-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-040-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-040-04.tif",
+              "height": "2577",
+              "width": "1894"
+            }
+          }
+        },
+        {
+          "height": "2661",
+          "label": "Gebäcke.(Seite 41)",
+          "width": "1907",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-41",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-41",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-041-05.tif"
+                },
+                "height": "2661",
+                "width": "1907",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-041-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-041-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-041-05.tif",
+              "height": "2661",
+              "width": "1907"
+            }
+          }
+        },
+        {
+          "height": "2546",
+          "label": "Gebäcke.(Seite 42)",
+          "width": "1933",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-42",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-42",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-042-05.tif"
+                },
+                "height": "2546",
+                "width": "1933",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-042-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-042-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-042-05.tif",
+              "height": "2546",
+              "width": "1933"
+            }
+          }
+        },
+        {
+          "height": "2607",
+          "label": "Gebäcke.(Seite 43)",
+          "width": "1884",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-43",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-43",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-043-05.tif"
+                },
+                "height": "2607",
+                "width": "1884",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-043-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-043-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-043-05.tif",
+              "height": "2607",
+              "width": "1884"
+            }
+          }
+        },
+        {
+          "height": "2555",
+          "label": "Vorläufiger Schluss.(Seite 44)",
+          "width": "2005",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-44",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-44",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-044-04.tif"
+                },
+                "height": "2555",
+                "width": "2005",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-044-04.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-044-04.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-044-04.tif",
+              "height": "2555",
+              "width": "2005"
+            }
+          }
+        },
+        {
+          "height": "2546",
+          "label": "Vorläufiger Schluss.(Seite 45)",
+          "width": "2089",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-45",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-45",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-045-05.tif"
+                },
+                "height": "2546",
+                "width": "2089",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-045-05.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-045-05.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-045-05.tif",
+              "height": "2546",
+              "width": "2089"
+            }
+          }
+        },
+        {
+          "height": "2836",
+          "label": "Buchdeckel hinten.(Seite 46)",
+          "width": "2041",
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:9090/fcgi-bin/canvas/canvas-46",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "http://localhost:9090/fcgi-bin/canvas/canvas-46",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-046-00.tif"
+                },
+                "height": "2836",
+                "width": "2041",
+                "@id": "http://localhost:9090/fcgi-bin/iipsrv.fcgi?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-046-00.tif",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "thumbnail": {
+            "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-046-00.tif",
+            "@type": "dctypes:Image",
+            "profile": [
+              "http://iiif.io/api/image/2/level0.json"
+            ],
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "protocol": "http://iiif.io/api/image",
+              "@id": "http://localhost:9090/IIPImage.html?IIIF=AHB-01-AC15148377-0/AHB-01000-AC15148377-image-046-00.tif",
+              "height": "2836",
+              "width": "2041"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

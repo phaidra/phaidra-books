@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2041" height="2836" resolution="300" originalCoords="1">
+<block blockType="Picture" l="0" t="0" r="2041" b="2836"><region><rect l="0" t="0" r="2041" b="2836"/></region>
+</block>
+<block blockType="Separator" l="999" t="2813" r="1464" b="2836"><region><rect l="1458" t="2813" r="1464" b="2814"/><rect l="1404" t="2814" r="1464" b="2815"/><rect l="999" t="2815" r="1464" b="2816"/><rect l="999" t="2816" r="1464" b="2817"/><rect l="999" t="2817" r="1464" b="2818"/><rect l="999" t="2818" r="1464" b="2819"/><rect l="999" t="2819" r="1464" b="2820"/><rect l="999" t="2820" r="1464" b="2821"/><rect l="999" t="2821" r="1464" b="2823"/><rect l="999" t="2823" r="1464" b="2824"/><rect l="999" t="2824" r="1464" b="2836"/></region>
+<separator type="Black" thickness="15"><start x="999" y="2824"/><end x="1464" y="2824"/>
+</separator>
+</block>
+<block blockType="Separator" l="698" t="2816" r="964" b="2836"><region><rect l="698" t="2816" r="716" b="2818"/><rect l="698" t="2818" r="964" b="2824"/><rect l="698" t="2824" r="964" b="2825"/><rect l="698" t="2825" r="964" b="2836"/></region>
+<separator type="Black" thickness="16"><start x="698" y="2826"/><end x="964" y="2826"/>
+</separator>
+</block>
+<block blockType="Separator" l="1802" t="2827" r="1942" b="2836"><region><rect l="1904" t="2827" r="1942" b="2828"/><rect l="1904" t="2828" r="1942" b="2829"/><rect l="1802" t="2829" r="1942" b="2830"/><rect l="1802" t="2830" r="1942" b="2836"/></region>
+<separator type="Black" thickness="6"><start x="1802" y="2831"/><end x="1942" y="2831"/>
+</separator>
+</block>
+<block blockType="Separator" l="981" t="1027" r="986" b="1151"><region><rect l="981" t="1027" r="986" b="1151"/></region>
+<separator type="Dotted" thickness="3"><start x="983" y="1027"/><end x="983" y="1151"/>
+</separator>
+</block>
+<block blockType="Picture" l="0" t="1174" r="346" b="1227"><region><rect l="0" t="1174" r="346" b="1227"/></region>
+</block>
+<block blockType="Picture" l="219" t="1710" r="371" b="1745"><region><rect l="219" t="1710" r="371" b="1745"/></region>
+</block>
+<block blockType="Picture" l="71" t="115" r="108" b="353"><region><rect l="71" t="115" r="108" b="353"/></region>
+</block>
+<block blockType="Picture" l="981" t="992" r="1022" b="1176"><region><rect l="981" t="992" r="1022" b="1176"/></region>
+</block>
+<block blockType="Picture" l="1687" t="2367" r="1826" b="2610"><region><rect l="1687" t="2367" r="1826" b="2610"/></region>
+</block>
+</page>
+</document>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2075" height="2825" resolution="300" originalCoords="1">
+<block blockType="Picture" l="122" t="0" r="1937" b="2825"><region><rect l="134" t="0" r="1937" b="1324"/><rect l="122" t="1324" r="1937" b="2825"/></region>
+</block>
+<block blockType="Text" l="356" t="791" r="601" b="855"><region><rect l="356" t="791" r="601" b="855"/></region>
+<text>
+<par lineSpacing="1550">
+<line baseline="841" l="361" t="800" r="445" b="842"><formatting lang="GermanStandard" ff="Times New Roman" fs="14." color="4492442">
+<charParams l="361" t="824" r="369" b="832" wordFirst="1" wordLeftMost="1" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="42" serifProbability="255" wordPenalty="18" meanStrokeWidth="37">■</charParams>
+<charParams l="365" t="802" r="381" b="818" suspicious="1" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="27" serifProbability="255" wordPenalty="18" meanStrokeWidth="37">•</charParams>
+<charParams l="387" t="800" r="425" b="842" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="0" serifProbability="52" wordPenalty="18" meanStrokeWidth="37">V</charParams>
+<charParams l="443" t="814" r="445" b="820" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="-1" serifProbability="255" wordPenalty="18" meanStrokeWidth="37">&apos;</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="166" t="0" r="409" b="10"><region><rect l="261" t="0" r="324" b="1"/><rect l="166" t="1" r="409" b="2"/><rect l="166" t="2" r="409" b="4"/><rect l="166" t="4" r="409" b="5"/><rect l="166" t="5" r="372" b="6"/><rect l="166" t="6" r="372" b="7"/><rect l="166" t="7" r="372" b="8"/><rect l="166" t="8" r="372" b="9"/><rect l="184" t="9" r="372" b="10"/></region>
+<separator type="Black" thickness="7"><start x="166" y="5"/><end x="409" y="5"/>
+</separator>
+</block>
+<block blockType="Separator" l="554" t="177" r="561" b="316"><region><rect l="554" t="177" r="561" b="316"/></region>
+<separator type="Dotted" thickness="2"><start x="557" y="177"/><end x="557" y="316"/>
+</separator>
+</block>
+<block blockType="Picture" l="412" t="393" r="480" b="454"><region><rect l="412" t="393" r="480" b="454"/></region>
+</block>
+<block blockType="Picture" l="408" t="1661" r="443" b="1811"><region><rect l="408" t="1661" r="443" b="1811"/></region>
+</block>
+<block blockType="Picture" l="572" t="2407" r="625" b="2664"><region><rect l="572" t="2407" r="625" b="2664"/></region>
+</block>
+<block blockType="Picture" l="1882" t="2623" r="1924" b="2811"><region><rect l="1882" t="2623" r="1924" b="2811"/></region>
+</block>
+</page>
+</document>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2089" height="2546" resolution="300" originalCoords="1">
+<block blockType="Picture" l="0" t="0" r="2089" b="2546"><region><rect l="0" t="0" r="2089" b="2546"/></region>
+</block>
+<block blockType="Separator" l="766" t="0" r="1221" b="13"><region><rect l="766" t="0" r="1221" b="3"/><rect l="766" t="3" r="1221" b="4"/><rect l="766" t="4" r="1171" b="5"/><rect l="766" t="5" r="1171" b="6"/><rect l="766" t="6" r="1171" b="7"/><rect l="766" t="7" r="1171" b="8"/><rect l="766" t="8" r="933" b="9"/><rect l="766" t="9" r="933" b="10"/><rect l="766" t="10" r="894" b="11"/><rect l="766" t="11" r="893" b="12"/><rect l="856" t="12" r="892" b="13"/></region>
+<separator type="Black" thickness="7"><start x="766" y="6"/><end x="1221" y="6"/>
+</separator>
+</block>
+<block blockType="Separator" l="2063" t="740" r="2089" b="1625"><region><rect l="2075" t="740" r="2089" b="748"/><rect l="2068" t="748" r="2089" b="751"/><rect l="2064" t="751" r="2089" b="978"/><rect l="2064" t="978" r="2089" b="984"/><rect l="2064" t="984" r="2089" b="989"/><rect l="2075" t="989" r="2089" b="991"/><rect l="2064" t="991" r="2089" b="1233"/><rect l="2067" t="1233" r="2083" b="1236"/><rect l="2067" t="1236" r="2089" b="1237"/><rect l="2065" t="1237" r="2089" b="1249"/><rect l="2067" t="1249" r="2089" b="1261"/><rect l="2066" t="1261" r="2089" b="1266"/><rect l="2065" t="1266" r="2089" b="1269"/><rect l="2064" t="1269" r="2089" b="1274"/><rect l="2063" t="1274" r="2089" b="1625"/></region>
+<separator type="Black" thickness="24"><start x="2076" y="740"/><end x="2076" y="1625"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2084" height="2807" resolution="300" originalCoords="1">
+<block blockType="Picture" l="0" t="0" r="2084" b="1886"><region><rect l="0" t="0" r="2084" b="1886"/></region>
+</block>
+<block blockType="Picture" l="140" t="1904" r="408" b="2218"><region><rect l="140" t="1904" r="408" b="2218"/></region>
+</block>
+<block blockType="Text" l="560" t="1978" r="642" b="2012"><region><rect l="560" t="1978" r="642" b="2012"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="464" t="2042" r="758" b="2180"><region><rect l="464" t="2042" r="758" b="2180"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="556" t="2260" r="656" b="2296"><region><rect l="556" t="2260" r="656" b="2296"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Picture" l="140" t="2366" r="436" b="2504"><region><rect l="140" t="2366" r="436" b="2478"/><rect l="140" t="2478" r="410" b="2488"/><rect l="140" t="2488" r="270" b="2494"/><rect l="140" t="2494" r="240" b="2504"/></region>
+</block>
+<block blockType="Text" l="240" t="2488" r="504" b="2582"><region><rect l="270" t="2488" r="504" b="2494"/><rect l="240" t="2494" r="504" b="2564"/><rect l="240" t="2564" r="412" b="2582"/></region>
+<text>
+<par leftIndent="6000" lineSpacing="730">
+<line baseline="2561" l="492" t="2559" r="497" b="2564"><formatting lang="GermanStandard" ff="Arial" fs="6.5" bold="1" color="1719904">
+<charParams l="492" t="2559" r="497" b="2564" wordFirst="1" wordLeftMost="1" wordFromDictionary="0" wordNormal="0" wordNumeric="0" wordIdentifier="1" charConfidence="40" serifProbability="255" wordPenalty="0" meanStrokeWidth="20">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="370" t="2580" r="450" b="2626"><region><rect l="380" t="2580" r="450" b="2598"/><rect l="370" t="2598" r="450" b="2618"/><rect l="370" t="2618" r="426" b="2626"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="862" t="2166" r="928" b="2194"><region><rect l="862" t="2166" r="928" b="2194"/></region>
+<text>
+<par lineSpacing="500">
+<line baseline="2189" l="877" t="2169" r="912" b="2188"><formatting lang="GermanStandard" ff="Arial" fs="4.5" color="5800095">
+<charParams l="877" t="2169" r="885" b="2188" suspicious="1" wordFirst="1" wordLeftMost="1" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="13" serifProbability="52" wordPenalty="0" meanStrokeWidth="24">V</charParams>
+<charParams l="886" t="2172" r="892" b="2180" suspicious="1" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="29" serifProbability="255" wordPenalty="0" meanStrokeWidth="24">»</charParams>
+<charParams l="893" t="2172" r="907" b="2184"> </charParams>
+<charParams l="908" t="2181" r="912" b="2184" wordFirst="1" wordLeftMost="1" wordFromDictionary="0" wordNormal="0" wordNumeric="0" wordIdentifier="1" charConfidence="35" serifProbability="255" wordPenalty="0" meanStrokeWidth="20">•</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" l="560" t="2522" r="788" b="2578"><region><rect l="560" t="2522" r="788" b="2578"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="1310" t="1930" r="1414" b="1958"><region><rect l="1310" t="1930" r="1414" b="1958"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="434" t="2706" r="736" b="2776"><region><rect l="434" t="2706" r="736" b="2776"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="682" t="2784" r="844" b="2807"><region><rect l="682" t="2784" r="844" b="2807"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Text" l="1756" t="1964" r="1798" b="1990"><region><rect l="1756" t="1964" r="1798" b="1990"/></region>
+<text>
+<par lineSpacing="-1"></par>
+</text>
+</block>
+<block blockType="Picture" l="1562" t="2172" r="2084" b="2807"><region><rect l="1562" t="2172" r="2084" b="2807"/></region>
+</block>
+<block blockType="Text" l="370" t="2717" r="388" b="2752"><region><rect l="370" t="2717" r="388" b="2752"/></region>
+<text>
+<par lineSpacing="890">
+<line baseline="2746" l="376" t="2723" r="382" b="2746"><formatting lang="GermanStandard" ff="Times New Roman" fs="8." color="5800095">
+<charParams l="376" t="2723" r="382" b="2746" suspicious="1" wordFirst="1" wordLeftMost="1" wordFromDictionary="0" wordNormal="0" wordNumeric="1" wordIdentifier="1" charConfidence="25" serifProbability="255" wordPenalty="0" meanStrokeWidth="28">I</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" l="149" t="0" r="567" b="23"><region><rect l="149" t="0" r="567" b="10"/><rect l="161" t="10" r="567" b="11"/><rect l="174" t="11" r="567" b="13"/><rect l="185" t="13" r="567" b="14"/><rect l="192" t="14" r="494" b="15"/><rect l="178" t="15" r="494" b="16"/><rect l="245" t="16" r="510" b="17"/><rect l="247" t="17" r="510" b="18"/><rect l="250" t="18" r="510" b="19"/><rect l="257" t="19" r="510" b="20"/><rect l="331" t="20" r="510" b="21"/><rect l="334" t="21" r="392" b="22"/><rect l="334" t="22" r="383" b="23"/></region>
+<separator type="Black" thickness="12"><start x="149" y="11"/><end x="567" y="11"/>
+</separator>
+</block>
+<block blockType="Separator" l="1263" t="0" r="1696" b="21"><region><rect l="1263" t="0" r="1696" b="5"/><rect l="1263" t="5" r="1696" b="8"/><rect l="1269" t="8" r="1696" b="9"/><rect l="1273" t="9" r="1695" b="10"/><rect l="1274" t="10" r="1669" b="11"/><rect l="1283" t="11" r="1628" b="12"/><rect l="1287" t="12" r="1628" b="13"/><rect l="1323" t="13" r="1628" b="14"/><rect l="1324" t="14" r="1628" b="15"/><rect l="1327" t="15" r="1628" b="16"/><rect l="1328" t="16" r="1628" b="17"/><rect l="1389" t="17" r="1628" b="18"/><rect l="1397" t="18" r="1628" b="20"/><rect l="1430" t="20" r="1628" b="21"/></region>
+<separator type="Black" thickness="16"><start x="1263" y="10"/><end x="1696" y="10"/>
+</separator>
+</block>
+<block blockType="Separator" l="1725" t="0" r="2033" b="24"><region><rect l="1725" t="0" r="2033" b="24"/></region>
+<separator type="Black" thickness="23"><start x="1725" y="12"/><end x="2033" y="12"/>
+</separator>
+</block>
+<block blockType="Separator" l="141" t="2030" r="145" b="2218"><region><rect l="143" t="2030" r="144" b="2044"/><rect l="143" t="2044" r="144" b="2047"/><rect l="141" t="2047" r="144" b="2143"/><rect l="142" t="2143" r="145" b="2218"/></region>
+<separator type="Black" thickness="2"><start x="143" y="2030"/><end x="143" y="2218"/>
+</separator>
+</block>
+<block blockType="Separator" l="1267" t="1887" r="1381" b="1904"><region><rect l="1267" t="1887" r="1381" b="1904"/></region>
+<separator type="Dotted" thickness="3"><start x="1267" y="1895"/><end x="1381" y="1895"/>
+</separator>
+</block>
+</page>
+</document>

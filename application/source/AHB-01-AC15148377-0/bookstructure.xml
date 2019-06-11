@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book:book xmlns:book="http://phaidra.univie.ac.at/XML/book/V1.0">
+    <book:classification>
+        <book:taxon seq="1">1</book:taxon>
+        <book:taxon seq="2">66</book:taxon>
+        <book:taxon seq="3">77</book:taxon>
+    </book:classification>
+    <book:pages>
+        <book:structure name="Buchdeckel vorne." seq="0">
+            <book:page filename="AHB-01000-AC15148377-image-001-00.jpg" abspagenum="1" />
+            <book:page filename="AHB-01000-AC15148377-image-002-05.jpg" abspagenum="2" />
+        </book:structure>
+        <book:structure name="Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern. Mitgeteilt durch K.J. Schröer." seq="1">
+            <book:page filename="AHB-01000-AC15148377-image-003-01.jpg" abspagenum="3" />
+            <book:page filename="AHB-01000-AC15148377-image-004-05.jpg" abspagenum="4" />
+        </book:structure>
+        <book:structure name="Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern." seq="2">
+            <book:page filename="AHB-01000-AC15148377-image-005-04.jpg" abspagenum="5" />
+        </book:structure>
+        <book:structure name="Mythologie und Aberglaube." seq="3">
+            <book:page filename="AHB-01000-AC15148377-image-006-04.jpg" abspagenum="6" />
+            <book:page filename="AHB-01000-AC15148377-image-007-05.jpg" abspagenum="7" />
+            <book:page filename="AHB-01000-AC15148377-image-008-05.jpg" abspagenum="8" />
+        </book:structure>
+        <book:structure name="Mythen." seq="4">
+            <book:page filename="AHB-01000-AC15148377-image-009-04.jpg" abspagenum="9" />
+            <book:page filename="AHB-01000-AC15148377-image-010-05.jpg" abspagenum="10" />
+            <book:page filename="AHB-01000-AC15148377-image-011-05.jpg" abspagenum="11" />
+            <book:page filename="AHB-01000-AC15148377-image-012-05.jpg" abspagenum="12" />
+            <book:page filename="AHB-01000-AC15148377-image-013-05.jpg" abspagenum="13" />
+            <book:page filename="AHB-01000-AC15148377-image-014-05.jpg" abspagenum="14" />
+            <book:page filename="AHB-01000-AC15148377-image-015-05.jpg" abspagenum="15" />
+            <book:page filename="AHB-01000-AC15148377-image-016-05.jpg" abspagenum="16" />
+            <book:page filename="AHB-01000-AC15148377-image-017-05.jpg" abspagenum="17" />
+            <book:page filename="AHB-01000-AC15148377-image-018-05.jpg" abspagenum="18" />
+            <book:page filename="AHB-01000-AC15148377-image-019-05.jpg" abspagenum="19" />
+            <book:page filename="AHB-01000-AC15148377-image-020-05.jpg" abspagenum="20" />
+            <book:page filename="AHB-01000-AC15148377-image-021-05.jpg" abspagenum="21" />
+            <book:page filename="AHB-01000-AC15148377-image-022-05.jpg" abspagenum="22" />
+            <book:page filename="AHB-01000-AC15148377-image-023-05.jpg" abspagenum="23" />
+            <book:page filename="AHB-01000-AC15148377-image-024-05.jpg" abspagenum="24" />
+            <book:page filename="AHB-01000-AC15148377-image-025-05.jpg" abspagenum="25" />
+            <book:page filename="AHB-01000-AC15148377-image-026-05.jpg" abspagenum="26" />
+            <book:page filename="AHB-01000-AC15148377-image-027-05.jpg" abspagenum="27" />
+            <book:page filename="AHB-01000-AC15148377-image-028-05.jpg" abspagenum="28" />
+            <book:page filename="AHB-01000-AC15148377-image-029-05.jpg" abspagenum="29" />
+            <book:page filename="AHB-01000-AC15148377-image-030-05.jpg" abspagenum="30" />
+            <book:page filename="AHB-01000-AC15148377-image-031-05.jpg" abspagenum="31" />
+            <book:page filename="AHB-01000-AC15148377-image-032-05.jpg" abspagenum="32" />
+        </book:structure>
+        <book:structure name="Andere Namen, die auf Mythisches hindeuten, Sprüche etc." seq="5">
+            <book:page filename="AHB-01000-AC15148377-image-033-04.jpg" abspagenum="33" />
+        </book:structure>
+        <book:structure name="Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen." seq="6">
+            <book:page filename="AHB-01000-AC15148377-image-034-04.jpg" abspagenum="34" />
+            <book:page filename="AHB-01000-AC15148377-image-035-05.jpg" abspagenum="35" />
+            <book:page filename="AHB-01000-AC15148377-image-036-05.jpg" abspagenum="36" />
+            <book:page filename="AHB-01000-AC15148377-image-037-05.jpg" abspagenum="37" />
+        </book:structure>
+        <book:structure name="Verwaiste Mythen." seq="7">
+            <book:page filename="AHB-01000-AC15148377-image-038-04.jpg" abspagenum="38" />
+        </book:structure>
+        <book:structure name="Sitten und Gebräuche." seq="8">
+            <book:page filename="AHB-01000-AC15148377-image-039-04.jpg" abspagenum="39" />
+        </book:structure>
+        <book:structure name="Gebäcke." seq="9">
+            <book:page filename="AHB-01000-AC15148377-image-040-04.jpg" abspagenum="40" />
+            <book:page filename="AHB-01000-AC15148377-image-041-05.jpg" abspagenum="41" />
+            <book:page filename="AHB-01000-AC15148377-image-042-05.jpg" abspagenum="42" />
+            <book:page filename="AHB-01000-AC15148377-image-043-05.jpg" abspagenum="43" />
+        </book:structure>
+        <book:structure name="Vorläufiger Schluss." seq="10">
+            <book:page filename="AHB-01000-AC15148377-image-044-04.jpg" abspagenum="44" />
+            <book:page filename="AHB-01000-AC15148377-image-045-05.jpg" abspagenum="45" />
+        </book:structure>
+        <book:structure name="Buchdeckel hinten." seq="11">
+            <book:page filename="AHB-01000-AC15148377-image-046-00.jpg" abspagenum="46" />
+        </book:structure>
+    </book:pages>
+</book:book>
