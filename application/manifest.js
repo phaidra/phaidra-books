@@ -20,6 +20,7 @@ var iPageXmlsLoaded = 0;
 
 //variables filled during the creation of the manifest
 var currentSequence = null;
+var currentStructure = null;
 var currentCanvas = null;
 var currentImageFileName = null;
 var currentAbsPageNum = null;
@@ -54,6 +55,7 @@ function initMembers(strBookName) {
   this.iPageXmlsLoaded = 0;
 
   this.currentSequence = null;
+  this.currentStructure = null;
   this.currentCanvas = null;
   this.currentImageFileName = null;
   this.currentAbsPageNum = null;
@@ -155,24 +157,113 @@ function createManifest() {
   //this.manifest = {label: "Manifest for img", sequences: "lol"};
 
   this.manifest = {
-    label: conf.label, //TODO: book label
+    label: conf.bookTitle,
     "@type": "sc:Manifest",
     "@id": conf.manifestUrl+this.strManifestFileName,
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "sequences": []
+    "license": conf.license,
+    "logo": conf.logo,
+    "attribution": conf.attribution,
+    "metadata": [],
+    "sequences": [],
+    "structures": []
   };
-  addSequenceToManifest();
+  addMetadataToManifest();
+  addSequenceAndStructureToManifest();
   writeManifestToFile();
 }
 
-function addSequenceToManifest() {
+
+function addMetadataToManifest() {
+  titleMetadata = {
+    "label": "Title",
+    "value": conf.bookTitle
+  };
+  this.manifest.metadata.push(titleMetadata);
+
+  furtherInformation = {
+    "label": "Further information",
+    "value": conf.furtherInformation
+  };
+  this.manifest.metadata.push(furtherInformation);
+
+  author = {
+    "label": "Author(s)",
+    "value": conf.author
+  };
+  this.manifest.metadata.push(author);
+
+  publicationDate = {
+    "label": "Publication date",
+    "value": conf.publicationDate
+  };
+  this.manifest.metadata.push(publicationDate);
+
+
+  permalinkBook = {
+    "label": "Permalink zum Buch",
+    "value": conf.permalinkBook
+  };
+  this.manifest.metadata.push(permalinkBook);
+
+  permalinkPage = {
+    "label": "Permalink zur aktuellen Seite",
+    "value": conf.permalinkPage
+  };
+  this.manifest.metadata.push(permalinkPage);
+
+  var tableOfContentsHtml = getTableOfContentsHtml();
+  tableOfContents = {
+    "label": "Table of contents",
+    "value": tableOfContentsHtml
+  };
+  this.manifest.metadata.push(tableOfContents);
+
+  var downloadsHtml = "<a href=''>komplettes Buch downloaden</a><br/>";
+  downloadsHtml += "<a href=''>aktuelle Seite als JPG downloaden</a><br/>";
+  downloadsHtml += "<a href=''>aktuelle Seite als PDF downloaden</a>";
+  downloads = {
+    "label": "Downloads",
+    "value": downloadsHtml
+  };
+  this.manifest.metadata.push(downloads);
+}
+
+function getTableOfContentsHtml() {
+  var tocHtml = "";
+  var count = this.arrBookStructureEntries.length;
+  for (var i = 0; i < count; i++) {
+    var bookPage = this.arrBookStructureEntries[i]["book:page"];
+    tocHtml += this.arrBookStructureEntries[i]["$"]["name"] + "<br/>";
+  }
+  //tocHtml += "</ul>";
+  return tocHtml;
+}
+
+
+function addSequenceAndStructureToManifest() {
+
 
   this.currentSequence = {
     "label" : "Current page order", // TODO: page id
     "@type" : "sc:Sequence",
     "@id" : conf.canvasUrl + "sequence/normal",
+    "rendering": [
+        {
+          "@id": conf.linkToPdf,
+          "format": "application/pdf",
+          "label": "Download as PDF"
+        },
+        {
+          "@id": conf.linkToTxt,
+          "format": "text/plain",
+          "label": "Download raw text"
+        }
+    ],
+    "viewingHint":	"paged",
     "canvases" : []
   };
+
 
 
   //load the data based on the book structure
@@ -183,15 +274,29 @@ function addSequenceToManifest() {
     this.currentStructureName = this.arrBookStructureEntries[i]["$"]["name"];
     //console.log(bookPage.length + " - " + strStructureName);
     var count2 = bookPage.length;
+    var strFirstCanvasUrl = "";
     for (var j = 0; j < count2; j++) {
       this.currentImageFileName = bookPage[j]["$"]["filename"];
       this.currentAbsPageNum = bookPage[j]["$"]["abspagenum"];
-      addCanvasToSequence();
+      var strCanvasUrl = addCanvasToSequence();
+      if (j == 0) strFirstCanvasUrl = strCanvasUrl;
     }
+
+    var strStructureUrl = conf.canvasUrl + "range/r-" + i;
+    this.currentStructure = {
+      "@id": strStructureUrl,
+      "@type": "sc:Range",
+      "label": this.currentStructureName, 
+      "canvases": [
+        strFirstCanvasUrl
+      ]
+    };
+    this.manifest.structures.push(this.currentStructure);
   }
 
 
   this.manifest.sequences.push(this.currentSequence);
+
 }
 
 function addCanvasToSequence() {
@@ -217,6 +322,7 @@ function addCanvasToSequence() {
   addImageToCanvas(strCanvasUrl, iWidth, iHeight);
   addThumnbnailToCanvas(iWidth, iHeight);
   this.currentSequence.canvases.push(this.currentCanvas);
+  return strCanvasUrl;
 }
 
 function addImageToCanvas(strCanvasUrl, iWidth, iHeight) {
