@@ -1,13 +1,63 @@
 {
-  "label": "Manifest for img",
+  "label": "Beitrag zur deutschen Mythologie und Sittenkunde aus dem Volksleben der Deutschen in Ungern",
   "@type": "sc:Manifest",
   "@id": "http://localhost:9090/manifests/manifest_AHB-01-AC15148377-0.json",
   "@context": "http://iiif.io/api/presentation/2/context.json",
+  "license": "Lizenz Information: CC BY-NC 2.0 AT - Creative Commons Namensnennung - Keine kommerzielle Nutzung 2.0 Österreich",
+  "logo": "http://localhost:9090/favicon.png",
+  "attribution": "My copyright text",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Beitrag zur deutschen Mythologie und Sittenkunde aus dem Volksleben der Deutschen in Ungern"
+    },
+    {
+      "label": "Further information",
+      "value": "als Aufmunterung zu größeren Sammlungen in den deutschen Gegenden Ungerns. Presburg, Wigand in Comm. 1855. 40 S. bibliografische Angaben"
+    },
+    {
+      "label": "Author(s)",
+      "value": "Unknown author"
+    },
+    {
+      "label": "Publication date",
+      "value": "1980"
+    },
+    {
+      "label": "Permalink zum Buch",
+      "value": "<a href='http://phaidra.univie.ac.at/o:912811'>http://phaidra.univie.ac.at/o:912811</a>"
+    },
+    {
+      "label": "Permalink zur aktuellen Seite",
+      "value": "<a href='http://phaidra.univie.ac.at/o:912812'>http://phaidra.univie.ac.at/o:912812</a>"
+    },
+    {
+      "label": "Table of contents",
+      "value": "Buchdeckel vorne.<br/>Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern. Mitgeteilt durch K.J. Schröer.<br/>Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern.<br/>Mythologie und Aberglaube.<br/>Mythen.<br/>Andere Namen, die auf Mythisches hindeuten, Sprüche etc.<br/>Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen.<br/>Verwaiste Mythen.<br/>Sitten und Gebräuche.<br/>Gebäcke.<br/>Vorläufiger Schluss.<br/>Buchdeckel hinten.<br/>"
+    },
+    {
+      "label": "Downloads",
+      "value": "<a href=''>komplettes Buch downloaden</a><br/><a href=''>aktuelle Seite als JPG downloaden</a><br/><a href=''>aktuelle Seite als PDF downloaden</a>"
+    }
+  ],
   "sequences": [
     {
       "label": "Current page order",
       "@type": "sc:Sequence",
       "@id": "http://localhost:9090/fcgi-bin/sequence/normal",
+      "rendering": [
+        {
+          "@id": "http://my.pdf.link",
+          "format": "application/pdf",
+          "label": "Download as PDF"
+        },
+        {
+          "@id": "http://my.txt.link",
+          "format": "text/plain",
+          "label": "Download raw text"
+        }
+      ],
+      "viewingHint": "paged",
       "canvases": [
         {
           "height": "2825",
@@ -1803,6 +1853,104 @@
             }
           }
         }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-0",
+      "@type": "sc:Range",
+      "label": "Buchdeckel vorne.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-1"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-1",
+      "@type": "sc:Range",
+      "label": "Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern. Mitgeteilt durch K.J. Schröer.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-3"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-2",
+      "@type": "sc:Range",
+      "label": "Beitrag zur deutschen Mythologie und Sittenkunde. Aus dem Volksleben der Deutschen in Ungern.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-5"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-3",
+      "@type": "sc:Range",
+      "label": "Mythologie und Aberglaube.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-6"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-4",
+      "@type": "sc:Range",
+      "label": "Mythen.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-9"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-5",
+      "@type": "sc:Range",
+      "label": "Andere Namen, die auf Mythisches hindeuten, Sprüche etc.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-33"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-6",
+      "@type": "sc:Range",
+      "label": "Die Seelen auf ihrem Wege in die Unterwelt; Kampf der Seelen.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-34"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-7",
+      "@type": "sc:Range",
+      "label": "Verwaiste Mythen.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-38"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-8",
+      "@type": "sc:Range",
+      "label": "Sitten und Gebräuche.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-39"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-9",
+      "@type": "sc:Range",
+      "label": "Gebäcke.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-40"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-10",
+      "@type": "sc:Range",
+      "label": "Vorläufiger Schluss.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-44"
+      ]
+    },
+    {
+      "@id": "http://localhost:9090/fcgi-bin/range/r-11",
+      "@type": "sc:Range",
+      "label": "Buchdeckel hinten.",
+      "canvases": [
+        "http://localhost:9090/fcgi-bin/canvas/canvas-46"
       ]
     }
   ]
