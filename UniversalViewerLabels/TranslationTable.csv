@@ -1,0 +1,157 @@
+Parent;Property;English;German
+contentLeftPanel;collapse;Collapse Contents;Inhalte einklappen
+contentLeftPanel;collapseFull;Collapse Gallery;Galerie ausblenden
+contentLeftPanel;date;date;Datum
+contentLeftPanel;expand;Expand Contents;Inhalte anzeigen
+contentLeftPanel;expandFull;Expand Gallery;Galerie anzeigen
+contentLeftPanel;index;Index;Index
+contentLeftPanel;manifestRanges;Manifest Ranges;Manifest Ranges
+contentLeftPanel;searchResult;{0} search result;{0} Suchergebnis
+contentLeftPanel;searchResults;{0} search results;{0} Suchergebnisse
+contentLeftPanel;sortBy;Sort By:;Sortieren nach:
+contentLeftPanel;thumbnails;Thumbnails;Miniaturansicht
+contentLeftPanel;title;Contents;Inhalte
+contentLeftPanel;volume;volume;volume
+dialogue;close;Close;Schließen
+downloadDialogue;currentViewAsJpg;Current view {0} x {1}px (jpg);Aktuelle Ansicht {0} x {1}px (jpg)
+downloadDialogue;currentViewAsJpgExplanation;Opens in a new window;In einem neuen Fenster öffnen
+downloadDialogue;download;Download;Herunterladen
+downloadDialogue;downloadSelection;Download Selection;Auswahl herunterladen
+downloadDialogue;downloadSelectionExplanation;Opens a dialogue to select which pages to download.;Dialog öffnen zur Auswahl der Seiten für den Download
+downloadDialogue;editSettings;Edit Settings;Einstellungen ändern
+downloadDialogue;entireDocument;Entire document ({0});Gesamtes Dokument ({0})
+downloadDialogue;entireFileAsOriginal;Entire file;Gesamte Datei
+downloadDialogue;noneAvailable;No download options are available.;Es sind keine Einstellungen für den Download verfügbar.
+downloadDialogue;pagingNote;Please turn off Two Page View for additional options.;Bitte die Zwei-Seiten-Ansicht ausschalten für weitere Einstellungen
+downloadDialogue;preview;Preview;Vorschau
+downloadDialogue;title;Download;Download
+downloadDialogue;wholeImageHighRes;Whole image {0} x {1}px ({2});Gesamtes Bild {0} x {1}px ({2})
+downloadDialogue;wholeImageHighResExplanation;Opens in a new window.;In einem neuen Fenster öffnen
+downloadDialogue;wholeImagesHighRes;Whole images ({0});Gesamte Bilder ({0})
+downloadDialogue;wholeImagesHighResExplanation;Opens in two new windows.;In zwei neuen Fenstern öffnen
+downloadDialogue;wholeImageLowResAsJpg;Whole image {0} x {1}px (jpg);Gesamtes Bild {0} x {1}px (jpg)
+downloadDialogue;wholeImageLowResAsJpgExplanation;Opens in a new window.;In einem neuen Fenster öffnen
+footerPanel;bookmark;Add to bookmarks;Zu Favoriten hinzufügen
+footerPanel;download;Download;Download
+footerPanel;embed;Embed;Einbetten
+footerPanel;exitFullScreen;Exit Full Screen;Vollbild verlassen
+footerPanel;feedback;Feedback;Feedback
+footerPanel;fullScreen;Full Screen;Vollbild
+footerPanel;moreInfo;More Information;Mehr Informationen
+footerPanel;open;Open;Öffnen
+footerPanel;share;Share;Teilen
+genericDialogue;emptyValue;please enter a value.;Bitte geben Sie einen Wert ein.
+genericDialogue;invalidNumber;Please enter a valid number.;Bitte geben Sie eine gültige Zahl ein.
+genericDialogue;noMatches;No matches were found.;Keine Ergebnisse gefunden.
+genericDialogue;ok;OK;OK
+genericDialogue;pageNotFound;This item does not contain a page with the number you entered. Try switching the numbering mode to 'image'.;Dieses Objekt beinhaltet keine Site mit der eingegebenen Nummer. Bitte ändern sie Nummermodus auf ‚Bild‘
+genericDialogue;refresh;Refresh;Aktualisieren
+helpDialogue;text;placeholder text;Platzhaltertext
+helpDialogue;title;Help;Hilfe
+moreInfoRightPanel;attribution;Attribution;Attribute
+moreInfoRightPanel;collapse;Collapse Information;Information ausblenden
+moreInfoRightPanel;collapseFull;Collapse Gallery;Galerie ausblenden
+moreInfoRightPanel;description;Description;Beschreibung
+moreInfoRightPanel;expand;Expand Information;Informationen anzeigen
+moreInfoRightPanel;expandFull;Expand Gallery;Galerie anzeigen
+moreInfoRightPanel;holdingText;Your module goes here!;Ihr Modul befindet sich hier!
+moreInfoRightPanel;less;less;Weniger
+moreInfoRightPanel;license;License;Lizenz
+moreInfoRightPanel;logo;Logo;Logo
+moreInfoRightPanel;more;more;Mehr
+moreInfoRightPanel;noData;No data to display;Keine Daten für die Anzeige
+moreInfoRightPanel;page;Page;Seite
+moreInfoRightPanel;title;More Information;Mehr Informationen
+moreInfoRightPanel;manifestHeader;About the item;Über das Objekt
+moreInfoRightPanel;canvasHeader;About the image;Über das Bild
+moreInfoRightPanel;copyToClipboard;Copy to clipboard;In Zwischenablage kopieren
+moreInfoRightPanel;copiedToClipboard;Copied to clipboard;In Zwischenablage kopiert
+multiSelectDialogue;select;Download;Download
+multiSelectDialogue;selectAll;Select All;Alle auswählen
+multiSelectDialogue;title;Select Pages for Download;Seiten für den Download auswählen
+pagingHeaderPanel;close;Close;Schließen
+pagingHeaderPanel;emptyValue;Please enter a value;Bitte geben Sie einen Wert ein.
+pagingHeaderPanel;first;First;Erstes
+pagingHeaderPanel;firstImage;First Image;Erstes Bild
+pagingHeaderPanel;firstPage;First Page;Erste Seite
+pagingHeaderPanel;folio;Folio;Folio
+pagingHeaderPanel;gallery;Gallery;Galerie
+pagingHeaderPanel;go;Go;Gehen
+pagingHeaderPanel;help;Help;Hilfe
+pagingHeaderPanel;image;Image;Bild
+pagingHeaderPanel;last;Last;Letztes
+pagingHeaderPanel;lastImage;Last Image;Letztes Bild
+pagingHeaderPanel;lastPage;Last Page;Letzte Seite
+pagingHeaderPanel;next;Next;Weiter
+pagingHeaderPanel;nextImage;Next Image;Nächstes Bild
+pagingHeaderPanel;nextPage;Next Page;Nächste Seite
+pagingHeaderPanel;of;of {0};Von {0}
+pagingHeaderPanel;oneUp;Single page view;Seitenansicht
+pagingHeaderPanel;page;Page;Seite
+pagingHeaderPanel;pageSearchLabel;Search by Page Number;Suche nach Seitennummer
+pagingHeaderPanel;previous;Previous;Zurück
+pagingHeaderPanel;previousImage;Previous Image;Voriges Bild
+pagingHeaderPanel;previousPage;Previous Page;Vorige Seite
+pagingHeaderPanel;settings;Settings;Einstellungen
+pagingHeaderPanel;twoUp;Two page view;Doppel-Seiten-Ansicht
+seadragonCenterPanel;attribution;Attribution;Attribute
+seadragonCenterPanel;goHome;Go Home;Start
+seadragonCenterPanel;imageUnavailable;Image Unavailable;Bild nicht verfügbar
+seadragonCenterPanel;next;Next;Weiter
+seadragonCenterPanel;previous;Previous;Zurück
+seadragonCenterPanel;rotateRight;Rotate Right;Nach rechts rotieren
+seadragonCenterPanel;zoomIn;Zoom In;Vergrößern
+seadragonCenterPanel;zoomOut;Zoom Out;Verkleinern
+searchFooterPanel;clearSearch;Clear;Zurücksetzen
+searchFooterPanel;defaultLabel;-;-
+searchFooterPanel;displaying;{0} {1} of {2};{0} {1} von {2}
+searchFooterPanel;enterKeyword;Enter Keyword;Suchbegriff eingeben
+searchFooterPanel;image;image;Bild
+searchFooterPanel;imageCaps;Image;Bild
+searchFooterPanel;instanceFound;1 instance of '{0}' found;1 Objekt von '{0}' gefunden
+searchFooterPanel;instancesFound;{0} instances of '{1}' found;{0} Objekte von '{1}' gefunden
+searchFooterPanel;nextResult;Next Result;Nächstes Ergebnis
+searchFooterPanel;page;page;Seite
+searchFooterPanel;pageCaps;Page;Seite
+searchFooterPanel;previousResult;Previous Result;Voriges Ergebnis
+searchFooterPanel;print;Print;Drucken
+searchFooterPanel;resultFoundFor;result found for;Ergebnis gefunden für
+searchFooterPanel;resultsFoundFor;results found for;Erbenisse gefunden für
+searchFooterPanel;searchWithin;Search within this item:;In Objekt suchen
+settingsDialogue;locale;Locale;Spracheinstellungen
+settingsDialogue;navigatorEnabled;Navigator Enabled;Navigator aktiviert
+settingsDialogue;clickToZoomEnabled;Mouse Click To Zoom;Zum Vergrößern mit der Maus klicken
+settingsDialogue;pagingEnabled;Two Page View;Zwei-Seiten-Ansicht
+settingsDialogue;preserveViewport;Preserve Zoom;Zoomeinstellungen beibehalten
+settingsDialogue;title;Settings;Einstellungen
+settingsDialogue;website;<a href='https://github.com/universalviewer/universalviewer#contributors'>more info</a>;<a href='https://github.com/universalviewer/universalviewer#contributors'>more info</a>
+shareDialogue;customSize;custom;benutzerdefiniert
+shareDialogue;embed;Embed;Einbetten
+shareDialogue;embedInstructions;To embed this item in your own website, copy and paste the code below.;Um dieses Objekt in Ihre Webseite einzubetten, kopieren Sie den Code unterhalb.
+shareDialogue;height;Height;Höhe
+shareDialogue;iiif;IIIF Manifest;IIIF Manifest
+shareDialogue;share;Share;Teilen
+shareDialogue;shareInstructions;To share this item, copy the URL below.;Um dieses Objekt zu teilen, kopieren Sie die URL unterhalb.
+shareDialogue;size;Size:;Größe:
+shareDialogue;width;Width;Breite
+authDialogue;cancel;Cancel;Abbrechen
+authDialogue;confirm;Confirm;OK
+clickThroughDialogue;viewTerms;Read Full Terms and Conditions;Vollständige Bedingungen lesen
+loginDialogue;login;Login;Login
+loginDialogue;logout;Logout;Logout
+loginDialogue;cancel;Cancel;Abbrechen
+mobileFooterPanel;rotateRight;Rotate Right;Nach rechts rotieren
+mobileFooterPanel;moreInfo;More Information;Mehr Informationen
+mobileFooterPanel;zoomIn;Zoom In;Vergrößern
+mobileFooterPanel;zoomOut;Zoom Out;Verkleinern
+restrictedDialogue;cancel;Cancel;Abbrechen
+content;authCORSError;Your browser does not support CORS, please upgrade to view this content.;Ihr Browser unterstützt CORS nicht. Bitte aktualisieren Sie den Browser um diese Inhalte zu sehen.
+content;authorisationFailedMessage;Your log-in attempt did not appear to be successful. Please try again.;Ihr Login-Versuch war nicht erfolgreich. Bitte versuchen Sie es erneut.
+content;canvasIndexOutOfRange;Canvas index out of range.;Canvas Index ist ungültig.
+content;fallbackDegradedLabel;Login;Login
+content;fallbackDegradedMessage;Please log in to view this content at full resolution.;Bitte loggen Sie sich ein, um den Inhalt in voller Auflösung sehen zu können.
+content;forbiddenResourceMessage;Your current access rights are insufficient to view this image;Sie haben nicht die Rechte, um dieses Bild anzeigen zu lassen.
+content;termsOfUse;Terms of Use;Nutzungsbedingungen
+localisation;label;English (GB);Deutsch
+localisation;locales.en-GB;English (GB);English (GB)
+localisation;Locales.ge-GE;Deutsch;Deutsch
